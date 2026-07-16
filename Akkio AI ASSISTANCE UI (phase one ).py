@@ -606,6 +606,6 @@ class AkkioAI:
         self.root.after(2000, self.update_system_stats)
 
 if __name__ == "__main__":
-    root = tk.Tk()
+    root = tk.Tk() 
     app = AkkioAI(root)
     root.mainloop()
