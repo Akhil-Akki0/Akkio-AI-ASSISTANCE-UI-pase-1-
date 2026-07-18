@@ -608,5 +608,4 @@ class AkkioAI:
 if __name__ == "__main__":
     root = tk.Tk() 
     app = AkkioAI(root)
-    
     root.mainloop()
